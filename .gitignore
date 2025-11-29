@@ -1,7 +1,6 @@
 # Manim output directories
-/media/
-/output/
-/renders/
+*/media/
+*/output/
 
 # PyCharm IDE files
 .idea/
@@ -30,6 +29,7 @@ wheels/
 *.egg-info/
 .installed.cgi
 *.egg
+*.pyc
 
 # Virtual environments
 venv/
