@@ -11,11 +11,11 @@ This is my observation.
 
 ### The Collection
 
-|Code Name | Descrption | Visualization |
-| :--- | :--- | :--- |
-| **code 1** | some text goes here | [*Comin Soon*](./directory/file.mp4) |
-| **code 1** | some text goes here | [*Comin Soon*](./directory/file.mp4) |
-| **code 1** | some text goes here | [*Comin Soon*](./directory/file.mp4) |
+| Project Name                 | Descrption                             | Visualization |
+|:-----------------------------|:---------------------------------------| :--- |
+| **[Bsics](./basics)**        | Fundemental animation and shapes       | [*Comin Soon*](./directory/file.mp4) |
+| **[Concepts](./conepts)**    | Intermediate techniques and transforms | [*Comin Soon*](./directory/file.mp4) |
+| **[Yet to Come]()** | Futur Project                          | [*Comin Soon*](./directory/file.mp4) |
 
 ---
 *Created with Python & Manim.*
