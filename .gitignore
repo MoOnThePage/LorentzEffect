@@ -1,0 +1,49 @@
+# Manim output directories
+/media/
+/output/
+/renders/
+
+# PyCharm IDE files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cgi
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp

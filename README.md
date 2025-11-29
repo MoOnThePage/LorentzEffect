@@ -13,9 +13,9 @@ This is my observation.
 
 |Code Name | Descrption | Visualization |
 | :--- | :--- | :--- |
-| **code 1** | some text goes here | [Watch Video](./directory/file.mp4) |
-| **code 1** | some text goes here | [Watch Video](./directory/file.mp4) |
-| **code 1** | some text goes here | [Watch Video](./directory/file.mp4) |
+| **code 1** | some text goes here | [*Comin Soon*](./directory/file.mp4) |
+| **code 1** | some text goes here | [*Comin Soon*](./directory/file.mp4) |
+| **code 1** | some text goes here | [*Comin Soon*](./directory/file.mp4) |
 
 ---
 *Created with Python & Manim.*
